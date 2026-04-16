@@ -3,6 +3,7 @@ Heap Data Structure and Heap Sort in Python
 video present:
 https://drive.google.com/file/d/1uOm2rnvBFhU5ceRzI1OJcCH5AfXNWwlH/view?usp=drive_link
 https://drive.google.com/drive/folders/1jOG1gfDrRf0EPtxT8bNfpfJ1Zwn1jMZt?usp=drive_link
+
 This project demonstrates the heap data structure and the heap sort algorithm using Python. It includes clear standalone implementations, printed step-by-step execution, and a PDF visualisation of the heap sort process.
 
 The project covers both max heap and min heap operations. It also includes a script that uses Graphviz to generate a PDF showing how heap sort transforms an unsorted array into a sorted sequence.
