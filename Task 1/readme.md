@@ -107,7 +107,6 @@ Installation
 Step 1: Download or clone the project files.
 
 Step 2: Install required library
-Step 2: Install required library
 This project uses both built-in Python libraries and one external library.
 
 Built-in Libraries (no installation required)
